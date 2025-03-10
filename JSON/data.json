@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "username": "CoolUser123",
+            "userImage": "https://picsum.photos/50",
+            "content": "Dit is mijn eerste post!",
+            "image": "https://picsum.photos/400/300",
+            "date": "2024-01-15"
+        },
+        {
+            "id": 2,
+            "username": "TechLover",
+            "userImage": "https://picsum.photos/51",
+            "content": "Check mijn nieuwe setup!",
+            "image": "https://picsum.photos/400/301",
+            "date": "2024-01-14"
+        }
+    ]
+}
